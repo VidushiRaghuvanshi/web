@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Document</title>
+<link
+
+href="https://fonts.googleapis.com/css2?family=Baloo+Tamma+2:wght@400;500;600;700;800&family=Roboto+Slab:wght@200;400;600;900&display=swap"
+
+rel="stylesheet" />
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" />
+<script src="https://kit.fontawesome.com/996973c893.js"></script>
+<link herf="https://fonts.googleapis.com/css2?family=Baloo+Tamma+2:wght@400;500;600;700;800&family=Roboto+Slab:wght@200;400;600;900&display=swap"
+rel="stylesheet">
+<style>
+    .container-fluid{
+        background-color: black;
+    }
+    h2{
+    color: goldenrod;
+    font-family: f ;
+    }
+    button{
+        border-radius: 50vh;
+        height: 40px;
+        background-color: goldenrod; 
+    }
+    h4{
+        color:goldenrod;
+        font-size: xx-large;
+        font-weight: 100;
+    }
+    h3{
+        font-weight: 100;
+    }
+    .navigation-link{
+        color: goldenrod;
+    }
+</style>
+</head>
+<body>
+    <div class="container-fluid navigation pt-3">
+        <div class="row">
+            <img src="forkspoon.png" width="100px">
+            <h2 class="d-inline">FORK & SPOON</h2>
+        </div><br>
+        <div class="row">
+            <div class="col-3 d-inline">
+                <a href="#MENU" class=" navigation-link"> MENU</a>
+                        </div>
+                        <div class="col-3 d-inline">
+                            <a href="#CATERING" class="navigation-link">CATERING</a>
+                        </div>
+                        <div class="col-3 d-inline">
+                            <a href="#BOOK A TABLE" class="navigation-link">BOOK A TABLE</a>
+                        </div>
+                            <div class="col-3 d-inline">
+                                <a href="#ORDER FOOD" class="navigation-link">ORDER FOOD</a>
+                           </div><br><br>
+                           <div class="col-3 d-inline">
+                            <a href="#FOOD RECIPE" class="navigation-link">FOOD RECIPE</a>
+                        </div>
+                        <div class="col-3 d-inline">
+                            <a href="#ABOUT" class="navigation-link">ABOUT</a>
+                        </div>
+                        <div class="col-3 d-inline">
+                            <a href="#CONTACT" class="navigation-link">CONTACT</a>
+                        </div>
+                        <div class="col-3 d-inline">
+                            <a href="#SHARE" class="navigation-link">SHARE</a>
+                        </div>
+                        </div>
+                        <br>
+                            <div><h3 class="text-white text-center">WELCOME TO FORK & SPOON! </h3>
+                                <p class="text-white text-center"> This restaurant gives you best Indian Cuisine with amazing 360% view...</p>
+                                <center><button>BOOK A TABLE</button></center>
+                            </div>
+                        </div>
+                        <div class="container-fluid navigation pt-3">
+<h4><center> Our best dishes... </center></h4>
+<center><img src="blacksalad.jpg" width="200px" height="200px"></center>
+<br>
+<center><h5 class="text-white">SALAD BOWL</h5></center>
+<center><img src="5.0.png" width="250px"></center><br>
+<center><img src="cholebhature.jpg" width="200px" height="200px"></center>
+<br>
+<center><h5 class="text-white">CHOLE BHATURE</h5></center>
+<center><img src="5.0.png" width="250px"></center><br>
+<center><img src="chicken.jpg" width="200px" height="200px"></center>
+<br>
+<center><h5 class="text-white">CHICKEN</h5></center>
+<center><img src="4.5.png" width="250px"></center><br>
+<center><img src="momo.avif" width="200px" height="200px"></center>
+<br>
+<center><h5 class="text-white">MOMOS</h5></center>
+<center><img src="4.5.png" width="250px"></center><br>
+                        <h3 class="text-white text-center"> CUSTOMIZE EVERY RECIPE!</h3>
+                        <p class="text-white text-center"> Make your own version of a favourite recipe without doing without doing all the dishes</p>
+                        <center><button> GETS STARTED!</button></center>
+                        <br><br>
+                        <center><h4>Social Media</h4></center>
+                        <center><h5 class="text-white">Our Media Handles</h5></center>
+                        <center><p class="text-white">Instagram Account-RestFork&Spoon<br>
+                        Facebook Account- RestFork&Spoon<br>
+                    Whatsapp No.- 9027910997<br>
+                Youtube Account-RestFork&Spoon</p></center>
+                <footer>
+                    <div class="containe-fluid navigation pt-3 text-muted text-crnter py-3 mt-5"></div>
+                   <h5>
+           Copyright &copy;2021 |
+           <a class="text-warning text-decoration-none" href="#about"> All Right Are Reserved By Fork&Spoon</a>
+                 </h5>
+                 </footer>
+</div>
+</body>
